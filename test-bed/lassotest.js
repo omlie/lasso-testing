@@ -287,8 +287,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   // CHOOSE SELECTION GEOMETRY HERE
 
-  const GEOMETRY = "nonIncremental";
-  // const GEOMETRY = "incremental";
+  // const GEOMETRY = "nonIncremental";
+  const GEOMETRY = "incremental";
 
   for (let i = 0; i < 500; i++) {
     // CHOOSE WHICH TEST TO PERFORM HERE
