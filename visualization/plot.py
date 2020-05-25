@@ -82,4 +82,4 @@ plotElements("selectRandom_nonIncremental", 15)
 plotElements("selectRandom_incremental", 15)
 
 plotClicks("selectLargePolygon_nonIncremental", 150)
-plotClicks("selectLargePolygon_incremental", 6)
+plotClicks("selectLargePolygon_incremental", 150)
